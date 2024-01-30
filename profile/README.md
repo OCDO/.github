@@ -27,7 +27,7 @@ Feel free to [contact us](mailto:a.azocar.guzman@fz-juelich.de) or provide sugge
 Under construction :construction:
 
 ### Acknowledgements
-<img src="https://github.com/OCDO/.github/blob/main/profile/Logo_FZJ.jpg" height="72"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/OCDO/.github/blob/main/profile/Logo_NFDI-MatWerk.png" height="72"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/OCDO/.github/blob/main/profile/HMC_Logo_M.png" height="72"> 
+<img src="https://github.com/OCDO/.github/blob/main/profile/Logo_FZJ.jpg" height="65"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/OCDO/.github/blob/main/profile/Logo_NFDI-MatWerk.png" height="65"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/OCDO/.github/blob/main/profile/HMC_Logo_M.png" height="65"> 
 
 This work is developed at the Materials Data Science and Informatics ([IAS‑9](https://www.fz-juelich.de/de/ias/ias-9)), Forschungszentrum Jülich GmbH.
 Supported by the [NFDI-MatWerk](https://nfdi-matwerk.de) consortium (Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National
