@@ -13,7 +13,7 @@ The Open Crystallographic Defects Ontologies is an initiative that aims to devel
 
 * **MMSS - Materials Modelling and Simulation Suite**
   * ASMO - Atomistic Simulation Methods Ontology
-  * D3SIM - Discrete Dislocation Dynamics Simulation
+  * DSIM - Discrete Dislocation Dynamics Simulation
     
 * **CMSO -  Computational Materials Sample Ontology**
 
