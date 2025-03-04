@@ -8,7 +8,6 @@ The Open Crystallographic Defects Ontologies is an initiative that aims to devel
   * CDCO - Crystallographic Defect Core Ontology
   * PODO - Point Defect Ontology
   * LDO - Line Defect Ontology
-    * DISO - Dislocation Ontology
   * PLDO - Plane Defect Ontology 
 
 * **MMSS - Materials Modelling and Simulation Suite**
